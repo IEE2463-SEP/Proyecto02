@@ -8,6 +8,8 @@ Informacion para el desarrollo del proyecto 02:
 
   Cualquier duda asociada al proyecto debe ser subida como un "issue" en este repositorio.
 
+  La rubrica para el avance de proyecto 2 la pueden encontrar [aquí](https://github.com/IEE2463-SEP/Proyecto02/blob/main/Rubrica_Avance_Proyecto_02_IEE2463.pdf)
+
   Estos tres ejemplos, de proyectos de semestres anteriores, pueden ser muy útiles para guiar sus trabajos:
   [Ejemplo1](https://github.com/IEE2463-SEP/Proyecto02/blob/main/G6_1S24.zip)
   [Ejemplo2](https://github.com/IEE2463-SEP/Proyecto02/blob/main/G18_1S24.zip)
