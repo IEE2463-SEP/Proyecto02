@@ -11,9 +11,7 @@ Informacion para el desarrollo del proyecto 02:
   La rubrica para el avance de proyecto 2 la pueden encontrar [aquí](https://github.com/IEE2463-SEP/Proyecto02/blob/main/Rubrica_Avance_Proyecto_02_IEE2463.pdf)
 
   Estos tres ejemplos, de proyectos de semestres anteriores, pueden ser muy útiles para guiar sus trabajos:
-  [Ejemplo1](https://github.com/IEE2463-SEP/Proyecto02/blob/main/G6_1S24.zip)
-  [Ejemplo2](https://github.com/IEE2463-SEP/Proyecto02/blob/main/G18_1S24.zip)
-  [Ejemplo3](https://github.com/IEE2463-SEP/Proyecto02/blob/main/G11_1S24.zip)
+
   [Compilado Mejores Proyectos](https://www.myqnapcloud.com/smartshare/74784g6inp2m2694r246673b_cb0f3g75l1km2501q93vzv5c5b098142)
 
 
