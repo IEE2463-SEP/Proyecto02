@@ -9,9 +9,9 @@
 | Documento | Descripción |
 | :--- | :--- |
 | [Proyecto plantilla](https://www.myqnapcloud.com/smartshare/74784g6inp2m2694r246673b_9c2d4042k9062rsrr485u5wc277c0723) | En este link está el proyecto plantilla para el desarrollo de este proyecto. |
-| [Enunciado del proyecto](https://github.com/IEE2463-SEP/PROY02/blob/main/Proyecto02_IEE2463.pdf) | En este link encontrará el enunciado del proyecto. Lea cuidadosamente todas las instrucciones. |
-| [Plantilla del informe](https://github.com/IEE2463-SEP/PROY02/blob/main/Informe_Proyecto_2_SEP.zip) | En este link encontrará la plantilla en overleaf para la enterga del informe asociado a su proyecto. |
-| [IMG_LCD_Booster.py](https://github.com/IEE2463-SEP/PROY02/blob/main/IMG_LCD_Booster.py) | En este link se deja un archivo utili para transformar imagenes al formato que recibe la pantalla LCD. (Crédito a Samuel Rodriguez - Alumno 1S25) |
+| [Enunciado del proyecto](https://github.com/IEE2463-SEP/PROY02/blob/HEAD/Proyecto02_IEE2463.pdf) | En este link encontrará el enunciado del proyecto. Lea cuidadosamente todas las instrucciones. |
+| [Plantilla del informe](https://github.com/IEE2463-SEP/PROY02/blob/HEAD/Informe_Proyecto_2_SEP.zip) | En este link encontrará la plantilla en overleaf para la enterga del informe asociado a su proyecto. |
+| [IMG_LCD_Booster.py](https://github.com/IEE2463-SEP/PROY02/blob/HEAD/IMG_LCD_Booster.py) | En este link se deja un archivo utili para transformar imagenes al formato que recibe la pantalla LCD. (Crédito a Samuel Rodriguez - Alumno 1S25) |
 
 Todos los documentos se deben subir en un link quye será publicado prontamente.
 
@@ -19,7 +19,7 @@ Todos los documentos se deben subir en un link quye será publicado prontamente.
 
 ## 📊 Evaluación
 
-La rubrica para el avance de proyecto 2 la pueden encontrar [aquí](https://github.com/IEE2463-SEP/PROY02/blob/main/Rubrica_Avance_Proyecto_02_IEE2463.pdf)
+La rubrica para el avance de proyecto 2 la pueden encontrar [aquí](https://github.com/IEE2463-SEP/PROY02/blob/HEAD/Rubrica_Avance_Proyecto_02_IEE2463.pdf)
 
 ---
 
